@@ -4,7 +4,8 @@ namespace EmailServicePHP\Client;
 
 /**
  * Class Success
- * @package EmailServicePHP\Client\Error
+ * @package EmailServicePHP\Client
+ * @author Alfonso Rodriguez <beabys@gmail.com>
  */
 class Success
 {

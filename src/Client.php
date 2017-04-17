@@ -7,7 +7,8 @@ use Exception;
 
 /**
  * Class Client
- * @package QuoteService\Client
+ * @package EmailServicePHP\Client
+ * @author Alfonso Rodriguez <beabys@gmail.com>
  */
 class Client
 {

@@ -4,12 +4,15 @@ namespace EmailServicePHP\Client;
 /**
  * Class ClientBuilder
  * @package EmailServicePHP\Client
+ * @author Alfonso Rodriguez <beabys@gmail.com>
  */
 class ClientBuilder
 {
 
     protected $endpoint;
+
     protected $user;
+
     protected $password;
 
     /**

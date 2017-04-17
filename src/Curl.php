@@ -7,6 +7,7 @@ use Exception;
 /**
  * Class Curl
  * @package EmailServicePHP\Client
+ * @author Alfonso Rodriguez <beabys@gmail.com>
  */
 class Curl
 {
